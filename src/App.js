@@ -4,8 +4,13 @@ import Contact from './components/Contact';
 import Privacy from './components/Privacy';
 import ComingSoon from './components/ComingSoon';
 import { Routes, Route } from 'react-router-dom';
+import { useEffect } from 'react';
 
 function App() {
+  useEffect(() => {
+    document.title = 'Mood Memo';
+  }, []);
+
   return (
     <div className="App">
       <main>
