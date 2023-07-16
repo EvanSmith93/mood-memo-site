@@ -1,7 +1,7 @@
 {
   "name": "mood-memo-site",
   "version": "0.1.0",
-  "homepage": "http://evansmith93.github.io/mood-memo-site",
+  "homepage": "https://evansmith93.github.io/mood-memo-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
