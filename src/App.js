@@ -5,7 +5,6 @@ import Privacy from './components/Privacy';
 import ComingSoon from './components/ComingSoon';
 import { Routes, Route } from 'react-router-dom';
 
-
 function App() {
   return (
     <div className="App">
