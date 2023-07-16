@@ -15,7 +15,6 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/privacy" element={<Privacy />} />
             <Route path="/coming-soon" element={<ComingSoon />} />
-            
           </Routes>
         </main>
     </div>
