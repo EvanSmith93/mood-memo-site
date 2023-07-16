@@ -5,7 +5,7 @@ import Header from './Header';
 function Home() {
   return (
     <div className="landing-page">
-      <img src="/assets/background.png" alt="Background image" className="bg-image" />
+      <img src="https://evansmith93.github.io/mood-memo-site/assets/background.png" alt="Background image" className="bg-image" />
       {/* Add padding and margin to raise the content up */}
       <Header color="white" />
       <Container className="content">
