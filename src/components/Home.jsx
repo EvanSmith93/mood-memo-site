@@ -14,7 +14,7 @@ function Home() {
 
         <Row>
           <Col>
-            <Button className="white-button mb-2" href='/coming-soon'>Download for iOS</Button>
+            <Button className="white-button mb-2" href='https://evansmith93.github.io/mood-memo-site/#/coming-soon'>Download for iOS</Button>
           </Col>
           <Col>
             <Button className="white-button mb-2" href='https://play.google.com/store/apps/details?id=com.evansmith.mood_memo&hl=en_US&gl=US'>Download for Android</Button>
