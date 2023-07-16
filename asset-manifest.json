@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mood-memo-site/static/css/main.24f9536a.css",
-    "main.js": "/mood-memo-site/static/js/main.f2be62ee.js",
+    "main.js": "/mood-memo-site/static/js/main.e3f67cc6.js",
     "index.html": "/mood-memo-site/index.html",
     "main.24f9536a.css.map": "/mood-memo-site/static/css/main.24f9536a.css.map",
-    "main.f2be62ee.js.map": "/mood-memo-site/static/js/main.f2be62ee.js.map"
+    "main.e3f67cc6.js.map": "/mood-memo-site/static/js/main.e3f67cc6.js.map"
   },
   "entrypoints": [
     "static/css/main.24f9536a.css",
-    "static/js/main.f2be62ee.js"
+    "static/js/main.e3f67cc6.js"
   ]
 }
