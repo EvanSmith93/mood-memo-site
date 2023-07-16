@@ -15,7 +15,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/privacy" element={<Privacy />} />
             <Route path="/coming-soon" element={<ComingSoon />} />
-            <Route path="*" element={<h1>Not Found</h1>} />
+            <Route path="*" element={<h1>Oh No, Not Found</h1>} />
           </Routes>
         </main>
     </div>
