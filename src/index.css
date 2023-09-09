@@ -17,19 +17,21 @@ code {
 
 /* Home.css */
 
-.landing-page-left {
+body, html {
   background-color: #F0A5AF;
-  height: 100vh;
+  height: 100%;
+}
+
+.landing-page-left {
+  height: 50vh;
   padding: 0 25px;
 }
 
-.bg-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+.phone-image {
+  position: relative;
+  height: 900px;
+  transform: rotate(-4deg);
+  left: -20px;
 }
 
 .content {
