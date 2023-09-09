@@ -4,7 +4,7 @@ import Header from './Header';
 
 function Home() {
   return (
-    <div>
+    <div className='landing-page'>
       <Row>
         <Col>
           <div className='landing-page-left'>

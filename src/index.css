@@ -17,7 +17,7 @@ code {
 
 /* Home.css */
 
-body, html {
+.landing-page {
   background-color: #F0A5AF;
   height: 100%;
 }
