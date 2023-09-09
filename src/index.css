@@ -30,6 +30,7 @@ code {
 .phone-image {
   position: relative;
   height: 900px;
+  max-height: 100vh;
   transform: rotate(-4deg);
   left: -20px;
 }
